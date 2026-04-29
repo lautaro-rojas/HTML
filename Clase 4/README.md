@@ -25,12 +25,10 @@ Lo importante es que debe tener la siguiete estructura y tener el archivo que se
 
    > [!NOTE]
    > El error del roslyn se soluciona ejecutando el siguente comando en la "Consola del administrador de paquetes":
-   > 
+   >
    > ```Bash
-   >    Update-Package Microsoft.CodeDom.Providers.DotNetCompilerPlatform -r
-   > ``` 
-
-
+   >Update-Package Microsoft.CodeDom.Providers.DotNetCompilerPlatform -r
+   > ```
 
 3. Crear un formulario web aspx que se llame `Respuesta.aspx`.
 
