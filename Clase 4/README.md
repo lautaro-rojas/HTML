@@ -84,4 +84,5 @@ double K = Math.Pow(L, 3) / (Math.Pow(Ck, 3) * Math.Pow(td, 4));
 semana que viene traer apuntes porque vamos a hacer un simulacro. Ejercicio practico de 45 minutos
 
 diferencia entre get y post
-probelma de estado cual es
+
+probelma de estado, cual es?
